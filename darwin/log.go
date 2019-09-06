@@ -1,5 +1,5 @@
 package darwin
 
-import "log"
+import "github.com/radiantrfid/logxi/v1"
 
 var logger = log.New("darwin")
