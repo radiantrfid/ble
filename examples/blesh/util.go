@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-ble/ble"
 	"github.com/pkg/errors"
-	"github.com/urfave/cli"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/cli"
 )
 
 func doGetUUID(c *cli.Context) error {

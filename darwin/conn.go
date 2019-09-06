@@ -5,8 +5,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/go-ble/ble"
-	"github.com/raff/goble/xpc"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/goble/xpc"
 )
 
 func newConn(d *Device, a ble.Addr, rxMTU int) *conn {

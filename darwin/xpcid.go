@@ -1,7 +1,7 @@
 package darwin
 
 import (
-	"github.com/raff/goble/xpc"
+	"github.com/radiantrfid/goble/xpc"
 )
 
 // xpc command IDs are OS X version specific, so we will use a map

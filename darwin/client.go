@@ -3,8 +3,8 @@ package darwin
 import (
 	"fmt"
 
-	"github.com/go-ble/ble"
-	"github.com/raff/goble/xpc"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/goble/xpc"
 )
 
 // A Client is a GATT client.

@@ -1,7 +1,7 @@
 package att
 
 import (
-	"github.com/mgutz/logxi/v1"
+	"log"
 )
 
 var logger = log.New("att")

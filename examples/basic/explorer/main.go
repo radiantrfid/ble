@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/examples/lib/dev"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/ble/examples/lib/dev"
 	"github.com/pkg/errors"
 )
 

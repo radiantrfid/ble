@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-ble/ble"
+	"github.com/radiantrfid/ble"
 	"github.com/pkg/errors"
 )
 

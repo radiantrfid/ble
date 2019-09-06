@@ -1,8 +1,8 @@
 package darwin
 
 import (
-	"github.com/go-ble/ble"
-	"github.com/raff/goble/xpc"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/goble/xpc"
 )
 
 type adv struct {

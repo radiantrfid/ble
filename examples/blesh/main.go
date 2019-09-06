@@ -9,12 +9,12 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/examples/lib"
-	"github.com/go-ble/ble/examples/lib/dev"
-	"github.com/go-ble/ble/linux"
 	"github.com/pkg/errors"
-	"github.com/urfave/cli"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/ble/examples/lib"
+	"github.com/radiantrfid/ble/examples/lib/dev"
+	"github.com/radiantrfid/ble/linux"
+	"github.com/radiantrfid/cli"
 )
 
 var curr struct {

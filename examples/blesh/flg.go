@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/urfave/cli"
+	"github.com/radiantrfid/cli"
 )
 
 var (

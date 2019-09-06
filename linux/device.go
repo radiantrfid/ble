@@ -5,10 +5,10 @@ import (
 	"io"
 	"log"
 
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/linux/att"
-	"github.com/go-ble/ble/linux/gatt"
-	"github.com/go-ble/ble/linux/hci"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/ble/linux/att"
+	"github.com/radiantrfid/ble/linux/gatt"
+	"github.com/radiantrfid/ble/linux/hci"
 	"github.com/pkg/errors"
 )
 

@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/linux/adv"
-	"github.com/go-ble/ble/linux/gatt"
+	"github.com/radiantrfid/ble"
+	"github.com/radiantrfid/ble/linux/adv"
+	"github.com/radiantrfid/ble/linux/gatt"
 	"github.com/pkg/errors"
 )
 

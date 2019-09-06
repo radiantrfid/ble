@@ -1,7 +1,5 @@
 package darwin
 
-import (
-	"github.com/mgutz/logxi/v1"
-)
+import "log"
 
 var logger = log.New("darwin")
